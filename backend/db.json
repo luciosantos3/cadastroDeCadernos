@@ -1,0 +1,22 @@
+{
+  "cadernos": [
+    {
+      "id": 1,
+      "anoEscolar": "9º ano B",
+      "anoLetivo": "2021",
+      "disciplina": "Português"
+    },
+    {
+      "id": 2,
+      "anoEscolar": "7º ano A",
+      "anoLetivo": "2021",
+      "disciplina": "Matemática"
+    },
+    {
+      "id": 3,
+      "anoEscolar": "6º ano C",
+      "anoLetivo": "2021",
+      "disciplina": "História"
+    }
+  ]
+}
